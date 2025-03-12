@@ -1,0 +1,14 @@
+header {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 135px;
+	background-color: orange;
+}
+
+h1 {
+	font-size: 100px;
+	margin: 10px;
+	margin-left: 50px;
+}

@@ -1,0 +1,32 @@
+/* This CSS file is being referenced in all web pages, so a change here should change the CSS on every page. */
+
+header {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 135px;
+	background-color: orange;
+}
+
+footer {
+	position: fixed;
+	top: 100vh;
+	left: 0px;
+	right: 0px;
+	transform: translate(0%, -80px);
+	height: 80px;
+	background-color: orange;
+}
+
+h1 {
+	font-size: 100px;
+	margin: 10px;
+	margin-left: 50px;
+}
+
+h2 {
+	font-size: 49px;
+	margin: 10px;
+	margin-left: 50px;
+}

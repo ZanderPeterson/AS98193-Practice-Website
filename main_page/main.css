@@ -1,21 +1,4 @@
-header {
-	position: fixed;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	height: 135px;
-	background-color: orange;
-}
-
-footer {
-	position: fixed;
-	top: 100vh;
-	left: 0px;
-	right: 0px;
-	transform: translate(0%, -80px);
-	height: 80px;
-	background-color: orange;
-}
+/* The CSS file for the main webpage - some things are defined in the global sheet instead of this local sheet. */
 
 #about_us {
 	position: absolute;
@@ -24,18 +7,6 @@ footer {
 	transform: translate(-50%, -50%);
 	width: 256px;
 	text-align: center;
-}
-
-h1 {
-	font-size: 100px;
-	margin: 10px;
-	margin-left: 50px;
-}
-
-h2 {
-	font-size: 49px;
-	margin: 10px;
-	margin-left: 50px;
 }
 
 p {

@@ -28,6 +28,14 @@ header {
 	text-align: center;
 }
 
+.search_bar {
+	width: auto;
+	height: 30px;
+	border-radius: 20px;
+	border: 1px solid;
+	padding: 5px;
+}
+
 footer {
 	position: fixed;
 	top: 100vh;

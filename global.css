@@ -7,7 +7,7 @@ header {
 	right: 0px;
 	height: 136px;
 	background-color: orange;
-	grid-template-columns: auto auto auto;
+	grid-template-columns: 50vw auto 30vw;
 	display: grid;
 }
 
@@ -15,6 +15,11 @@ header {
 	grid-template-columns: 128px auto;
 	display: grid;
 	width: 50vw;
+}
+
+#header_right {
+	grid-template-rows: 30px auto;
+	text-align: center;
 }
 
 #logo {

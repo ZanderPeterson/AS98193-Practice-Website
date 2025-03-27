@@ -17,15 +17,15 @@ header {
 	width: 50vw;
 }
 
-#header_right {
-	grid-template-rows: 30px auto;
-	text-align: center;
-}
-
 #logo {
 	width: 100px;
 	margin: 18px;
 	border: 1px solid;
+}
+
+#header_right {
+	grid-template-rows: 30px auto;
+	text-align: center;
 }
 
 footer {

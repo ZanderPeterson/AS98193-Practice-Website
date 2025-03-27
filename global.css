@@ -5,8 +5,22 @@ header {
 	top: 0px;
 	left: 0px;
 	right: 0px;
-	height: 135px;
+	height: 136px;
 	background-color: orange;
+	grid-template-columns: auto auto auto;
+	display: grid;
+}
+
+#header_left {
+	grid-template-columns: 128px auto;
+	display: grid;
+	width: 50vw;
+}
+
+#logo {
+	width: 100px;
+	margin: 18px;
+	border: 1px solid;
 }
 
 footer {
@@ -22,7 +36,6 @@ footer {
 h1 {
 	font-size: 100px;
 	margin: 10px;
-	margin-left: 50px;
 }
 
 h2 {

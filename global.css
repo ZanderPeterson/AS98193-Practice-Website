@@ -69,14 +69,12 @@ a:link {
 
 a:hover {
   text-decoration: underline;
-  font-style: italic;
   text-decoration-color: black;
   color: black;
 }
 
 a:active {
   text-decoration: underline;
-  font-style: italic;
   text-decoration-color: black;
   color: black;
 }

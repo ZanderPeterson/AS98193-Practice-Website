@@ -63,3 +63,17 @@ h2 {
 p {
 	font-size: 16px;
 }
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-style: italic;
+}
+
+a:active {
+  text-decoration: underline;
+  font-style: italic;
+}
